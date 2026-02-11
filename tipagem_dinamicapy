@@ -1,0 +1,8 @@
+# SEM TIPAGEM
+# tipagem dinamica 
+
+nome = "Marta"
+idade = 19
+
+print("Nome", nome)
+print("idade", idade)

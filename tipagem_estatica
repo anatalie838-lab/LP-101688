@@ -1,0 +1,16 @@
+# TIPAGEM ESTATICA=DECLARA VARIAVEIS ANTES DE USAR 
+
+nome: str 
+idade: int 
+altura: float
+matriculado: bool
+
+nome = "Marta" 
+idade = 19
+altura = 1.65 
+matriculado = True 
+
+print("nome: ", nome)
+print("idade", idade)
+print("altura", altura)
+print("matriculado", matriculado)
